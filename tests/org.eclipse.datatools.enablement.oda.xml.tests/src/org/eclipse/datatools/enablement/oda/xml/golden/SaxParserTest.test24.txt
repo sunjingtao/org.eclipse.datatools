@@ -1,2 +1,0 @@
-defaultB					specificB1					specificB2					noB					
-B1					B2					B1					null					

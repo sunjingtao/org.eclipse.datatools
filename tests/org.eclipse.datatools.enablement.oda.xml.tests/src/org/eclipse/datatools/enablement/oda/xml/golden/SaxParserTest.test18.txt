@@ -1,3 +1,0 @@
-name					value					type					
-firstName					Michael					employeeType1					
-firstName					Andrew					employeeType1					

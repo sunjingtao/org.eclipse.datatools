@@ -1,3 +1,0 @@
-book.title					book.author_paul					
-My Life and Times					McGrady					
-Illusions The Adventures of a Reluctant Messiah					Richard Bach					
